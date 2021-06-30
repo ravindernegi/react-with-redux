@@ -1,12 +1,12 @@
 import { Provider } from 'react-redux';
 import './App.css';
-import Todo from './Todo';
+import TodoClass from './TodoClass';
 
 import store from './store';
 function App() {
   return (
     <Provider store={store}>
-      <Todo />
+      <TodoClass />
     </Provider>
   );
 }
