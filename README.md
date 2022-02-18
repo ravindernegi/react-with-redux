@@ -3,5 +3,5 @@
 ### Author : Ravinder Negi
 
 * My Website : https://ravindernegi.com
-* My Youtube : https://www.youtube.com/channel/UCIwbukU7K0h1GqFpjFcXjWg/videos
+* My Youtube : https://www.youtube.com/c/totallyhindimeinjankari
 
